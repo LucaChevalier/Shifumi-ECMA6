@@ -1,0 +1,14 @@
+#flex1 {
+    display:flex;
+    justify-content:center;
+}
+
+
+#flex1 > img{
+    padding:20px;
+}
+
+#imgDiv{
+    display:flex;
+    justify-content: center;
+}
